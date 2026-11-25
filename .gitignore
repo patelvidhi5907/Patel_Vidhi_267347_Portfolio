@@ -1,0 +1,5 @@
+# Ignore raw source data and internal artifacts
+portfolio_data.md
+.gemini/
+*.log
+push.bat
